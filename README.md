@@ -76,7 +76,7 @@ Clona el repositorio:
 
 bash
 Copy
-git clone https://github.com/jzubietas/validator_react.git
+git clone https://github.com/elson0652/validador.git 
 Navega al directorio del proyecto:
 
 bash
@@ -126,7 +126,7 @@ Si tienes alguna pregunta o comentario, no dudes en contactarme:
 
 Nombre: Jhonathan Zubieta
 
-Email: [jizs.contact@gmail.com]
+Email: [angels1203@outlook.es]
 
 GitHub: tu-usuario
 
