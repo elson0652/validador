@@ -122,9 +122,9 @@ Licencia
 Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo LICENSE.
 
 Contacto
-Si tienes alguna pregunta o comentario, no dudes en contactarme:
+Si tienes alguna consulta no dudes en contactarme:
 
-Nombre: Jhonathan Zubieta
+Nombre: Elson Angulo
 
 Email: [angels1203@outlook.es]
 
